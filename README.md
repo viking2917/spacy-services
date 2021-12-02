@@ -1,5 +1,7 @@
 <a href="https://explosion.ai"><img src="https://explosion.ai/assets/img/logo.svg" width="125" height="125" align="right" /></a>
 
+(my updates to displacy to use latest Spacy and associated changes, and augment the return payload for entities)
+
 # spaCy REST services
 
 This repository includes REST microservices for various spaCy-related tasks. The
