@@ -2,6 +2,8 @@
 
 # displaCy
 
+(this fork removes all but the small efficient model, to keep the install small. it upgrades to the latest Spacy. It moves to the now-included CORS package rather than the hug-middleware package. and lastly, returns the text label of entities, in addition to the position and label)
+
 Serve one or more [spaCy models](https://spacy.io/models) and extract syntactic
 dependencies, part-of-speech tags and/or entities. For usage examples, see the
 [displaCy](https://explosion.ai/demos/displacy) and
